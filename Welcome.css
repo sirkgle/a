@@ -52,6 +52,6 @@ input{
       margin-bottom: 1rem;
      }
 body {
- background-image: url("https://sirkgle.github.io/a/img/back.jpg");
+ background-image: "https://sirkgle.github.io/a/img(back.jpg)";
  background-color: rgb(231, 179, 111);
 }
