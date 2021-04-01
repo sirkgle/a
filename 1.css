@@ -1,0 +1,15 @@
+.content{
+			height: 150px;
+			justify-content: space-around;
+		}
+main {
+			height:10px;
+			vertical-align:bottom;
+			display:flex;
+            flex-flow: row, wrap;
+			justify-content: space-around ;
+			align-items: baseline;
+            }
+section .a {
+			align-items: baseline;
+                }
