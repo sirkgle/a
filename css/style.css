@@ -2,7 +2,7 @@
 ul li {list-style:none;}
 .clearfix:after{content:''; display:block; clear:both;}
 body { background-image: url("https://sirkgle.github.io/a/img/back.jpg");background-color: rgb(231, 179, 111); overflow-y: scroll; padding-top:80px;}
-header {margin-top:15px;background:linear-gradient(#edf2e6 50px, rgba(255,255,255,0.8) 50px, rgba(255,255,255,0.8));height:50px;overflow:hidden;transition:height 0.4s;position:absolute;top:0;left:0;right:0;}
+header {margin-top:15px;background: linear-gradient(rgb(239 212 167 / 41%) 50px, rgb(255 255 255) 50px, rgb(255 255 255 / 66%));height:50px;overflow:hidden;transition:height 0.4s;position:absolute;top:0;left:0;right:0;}
 nav {border: 4px; width:10% margin:0 auto;display:flex;flex-direction: column; }
 nav > ul > li {top:18px; line-height: 50px; padding:0 35px; position: relative;}
 h4 {margin-top: 12px;margin-left: 25px;}
@@ -10,7 +10,6 @@ footer{
     border-top:1px solid rgb(190, 150, 74);
     padding:20px;
     text-align: center;
-     display:none;
     }
 aside > div {padding: 8px;}
 main{padding: 18px;}
