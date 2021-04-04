@@ -10,6 +10,7 @@ footer{
     border-top:1px solid rgb(190, 150, 74);
     padding:20px;
     text-align: center;
+     display:none;
     }
 aside > div {padding: 8px;}
 main{padding: 18px;}
