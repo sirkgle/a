@@ -141,7 +141,7 @@ header.header:after { display:none; }
 
 /* 매물 리스트 */
 .salelist { background-color: #ffffff4f; }
-.salelist li {padding : 1.3%; width: 30%;}
+.salelist li {padding : 1.3%; width: 30%;margin-top: 1%;}
 .salelist li {*zoom:1;} /* IE5.5~7 브라우저 대응 Hack */
 .salelist li:after { content:""; display:block; clear:both; }
 .salelist li .photo_box { float:right; width:100px; height:76px; margin-left:10px; }
