@@ -13,6 +13,7 @@ ul{display: flex; flex-wrap: wrap; justify-content: frex-start; padding : 1%; li
 #header .header_title img { vertical-align:middle; }
 #header .kcr_logo { height:20px; }
 #header .contents_logo { height:20px; }
+a{text-decoration:none;}
 
 /* 검색 0620 */
 .btn_search { position:absolute; right:10px; top:12px; color:#fff; }
