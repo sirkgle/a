@@ -852,6 +852,6 @@ input[type=search]::-ms-clear { display:none; }
 }
 .mtbox { width:300px !important; }
 
-@media screen and (max-width : 1240Px) {.salelist li {padding : 1%; width: 48%;}}
-@media screen and (max-width : 835Px) {.salelist li {padding-top : 10%; width: 98%;}}
-@media screen and (max-width : 375Px) {.salelist li {padding-top : 13%; width: 98%;} }
+@media screen and (max-width : 1240Px) {.salelist li {padding-top : 35px; width: 43%;}}
+@media screen and (max-width : 835Px) {.salelist li {width: 98%;}}
+@media screen and (max-width : 375Px) {.salelist li {width: 99%;}}
