@@ -1,7 +1,7 @@
 * {margin:0; padding:0}
 ul li {list-style:none;}
 body { background-image:url("https://t1.daumcdn.net/cafe_image/cf_img4/bg/bgimg_2/bg.jpg");background-color: rgb(241, 210, 169); overflow-y: scroll; height: 52rem ; padding-top:30px; margin: 4% 4%}
-header {margin-top:15px;background: linear-gradient(rgb(239 212 167 / 10%) 10px, rgb(255 255 255) 50px, rgb(255 255 255 / 90%) 400px,rgb(255 255 255 / 0%));height:60px;overflow:hidden;transition:height 0.4s;position:absolute;top:0;left:0;right:0;text-align: center;}
+header {margin-top:15px;background: linear-gradient(rgb(239 212 167 / 10%) 10px, rgb(255 255 255) 50px, rgb(255 255 255 / 90%) 400px,rgb(255 255 255 / 0%));height:70px;overflow:hidden;transition:height 0.4s;position:absolute;top:0;left:0;right:0;text-align: center;}
 #j{font-size: 2rem;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;color: green;}
 #t{font-size: 1.6rem;color: rgb(1, 1, 100);}
 .main_c{padding: 4px;display: flex; flex-wrap: wrap; list-style:none;}
@@ -852,6 +852,6 @@ input[type=search]::-ms-clear { display:none; }
 }
 .mtbox { width:300px !important; }
 
-@media screen and (max-width : 1240Px) {.salelist li {padding : 1%; width: 48%;} {header {height:60px;}}
+@media screen and (max-width : 1240Px) {.salelist li {padding : 1%; width: 48%;}}
 @media screen and (max-width : 835Px) {.salelist li {padding : 1%; width: 98%;}}
-@media screen and (max-width : 375Px) {.salelist li {padding : 0%; width: 98%;}}
+@media screen and (max-width : 375Px) {.salelist li {padding : 1%; width: 98%;}}
